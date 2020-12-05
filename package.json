@@ -22,9 +22,5 @@
   },
   "engines": {
     "node": "12.x"
-  },
-  "devDependencies": {
-    "got": "^11.8.0",
-    "tape": "^5.0.1"
   }
 }
