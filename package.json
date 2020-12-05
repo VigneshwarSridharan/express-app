@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/VigneshwarSridharan/express-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "serverless-http": "^2.6.0"
   },
   "devDependencies": {
     "@vercel/node": "^1.8.5"
