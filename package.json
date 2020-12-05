@@ -19,5 +19,11 @@
   "homepage": "https://github.com/VigneshwarSridharan/express-app#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@vercel/node": "^1.8.5"
+  },
+  "engines": {
+    "node": "12.x"
   }
 }
